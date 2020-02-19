@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-hi !!
-
-=======
-bye
->>>>>>> v2 of thing
-
-sdsej
+resolved~
